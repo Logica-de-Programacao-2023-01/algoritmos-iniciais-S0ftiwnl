@@ -1,0 +1,7 @@
+1. leia x
+2. inicializar a variável produto com x
+3. para cada número entre x e 1 faça:
+4. 1: multiplique o produto pelo número atual
+5. exiba o resultado do produto
+
+
